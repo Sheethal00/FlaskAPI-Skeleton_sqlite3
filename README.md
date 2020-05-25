@@ -4,8 +4,8 @@ Flask API Server Written in Python
 
 #### Virtual Environments
 
-* skeletonenv
-
+* Linux - skeletonenv
+* Windows - envs\Windows\skeletonenv
 
 #### Configurations
 
@@ -18,9 +18,12 @@ Flask API Server Written in Python
 
 
 #### Running The Code
-
-	$ source skeletonenv/bin/activate
-	$ python3 flask_skeleton.py
+	$ Linux 
+		* source skeletonenv/bin/activate
+	 	* python3 flask_skeleton.py
+	$ Windows
+		* envs\Windows\skeltonenv\Scripts\activate.bat
+		* python3 falsk_skeleton.py
 
 #### Stopping the Code
 
